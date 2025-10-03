@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TSDMH252_252_LGSL_E4</string>
+    //pantalla 1
+    <string name="p1t1">Paso de Paramatros entre actividades </string>
+    <string name="p1lbl1">Ingresa tu nombre Completo</string>
+    <string name="p1h1">Aqui tu Nombre</string>
+    <string name="p1btn1">Saludar</string>
+    //pantalla 2
+    <string name="p2t1">Pantalla de Saludo</string>
+
+</resources>
